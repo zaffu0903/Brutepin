@@ -395,38 +395,6 @@ Try this command in a shell on the NetHunter phone:
 - Detect when a phone is unlocked (Use Nethunter camera as a sensor?)
 - Crack Android Patterns (try common patterns first)
 
-## 🙋 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## 😎 Authors and acknowledgment
-
-Developed by Andrew Horton (@urbanadventurer).
-
-👏 The following people have been very helpful:
-
-- Vlad Filatov (@v1adf): Testing many phones for the Wiki Phone Database 
-
-
-### Motivation
-
-My original motivation to develop this was to unlock a Samsung S5 Android phone. It had belonged to someone who had passed away, and their family needed access to the data on it. As I didn't have a USB Rubber Ducky or any other hardware handy, I tried using a variety of methods, and eventually realised I had to develop something new.
-
-### Credit
-
-The optimised PIN list is from Justin Engler (@justinengler) & Paul Vines from Senior Security Engineer, iSEC Partners
-and was used in their Defcon talk, [Electromechanical PIN Cracking with Robotic Reconfigurable Button Basher (and C3BO).](https://www.defcon.org/html/defcon-21/dc-21-speakers.html#Engler).
-
-### Graphics
-
-Designed by Andrew Horton and gratefully using these free vector packs:
-
-- [USB Ports Isometric Free Vector by VisionHeldup](https://www.vecteezy.com/vector-art/159576-usb-ports-isometric-free-vector)
-- [HDMI and USB Vector Set by Mary Winkler](https://www.vecteezy.com/vector-art/107006-hdmi-and-usb-vector-set)
-- [Isometric Data Security Illustration by Rizal.Medanguide](https://www.vecteezy.com/vector-art/661831-isometric-data-security-illustration)
-- Kali NetHunter Logo
 
 ## 🗿 Comparison with other projects and methods to unlock a locked Android phone
 
